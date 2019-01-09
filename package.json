@@ -1,0 +1,22 @@
+{
+  "name": "js-word-cloud-generator",
+  "version": "1.0.0",
+  "description": "Generate word cloud using javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Word_Cloud"
+  ],
+  "author": "Ashwani K Luhaniwal",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "zingchart": "^2.8.4"
+  },
+  "devDependencies": {
+    "http": "0.0.0",
+    "nodemon": "^1.18.9"
+  }
+}
